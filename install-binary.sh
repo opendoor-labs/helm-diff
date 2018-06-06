@@ -3,7 +3,7 @@
 # Shamelessly copied from https://github.com/technosophos/helm-template
 
 PROJECT_NAME="helm-diff"
-PROJECT_GH="databus23/$PROJECT_NAME"
+PROJECT_GH="opendoor-labs/$PROJECT_NAME"
 
 : ${HELM_PLUGIN_PATH:="$(helm home)/plugins/helm-diff"}
 
